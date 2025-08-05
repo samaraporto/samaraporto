@@ -6,7 +6,7 @@
 
 ## 🚀 Meus Projetos Destaque
 
--  [Pipeline de Análise Cinematográfica na AWS](https://github.com/samaraporto/Pipeline-de-Analise-Cinematografica-na-AWS)
+- [Pipeline de Análise Cinematográfica na AWS](https://github.com/samaraporto/Pipeline-de-Analise-Cinematografica-na-AWS)
   - Pipeline da dados completa, desde ingestão de dados até criação de bashboard.  
 - 🍔 [Site da Hamburgueria](https://github.com/samaraporto/projeto-burger/tree/backend)
   - Um site completo com login, pedido e localStorage.
