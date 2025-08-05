@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**samaraporto/samaraporto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Tenho interesse em Engenharia de Dados e Ciência de Dados
 
-Here are some ideas to get you started:
+## 🚀 Meus Projetos Destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🍔 [Site da Hamburgueria](https://github.com/seu-usuario/hamburgueria)
+  - Um site completo com login, pedido e localStorage.
+- 📡 [Notícias Espaciais](https://github.com/seu-usuario/noticias-espaciais)
+  - Consome API de notícias espaciais e exibe no front-end.
+- 📖 [Sistema de Biblioteca em Java](https://github.com/seu-usuario/biblioteca-java)
+  - CRUD completo feito em Java.
+
+## 🛠️ Tecnologias
+
+- Front-end: HTML, CSS, JavaScript, React, Bootstrap
+- Back-end: Node.js, Express
+- Banco de Dados: PostgreSQL, MySQL, DBeaver, MongoDB
+- Cloud: AWS, Azure
+- Outros: Docker, Git, Power BI, Looker Studio
+
+## 📫 Contato
+
+- [LinkedIn](https://linkedin.com/in/sp.samaraporto)
+- Email: sp.samaraporto@gmail.com
