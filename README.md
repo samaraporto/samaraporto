@@ -8,11 +8,11 @@
 
 -  [Pipeline de Análise Cinematográfica na AWS](https://github.com/samaraporto/Pipeline-de-Analise-Cinematografica-na-AWS)
   - Pipeline da dados completa, desde ingestão de dados até criação de bashboard.  
-- 🍔 [Site da Hamburgueria]([https://github.com/seu-usuario/hamburgueria](https://github.com/samaraporto/projeto-burger/tree/backend))
+- 🍔 [Site da Hamburgueria](https://github.com/samaraporto/projeto-burger/tree/backend)
   - Um site completo com login, pedido e localStorage.
-- 📡 [Notícias Espaciais]([https://github.com/seu-usuario/noticias-espaciais](https://github.com/samaraporto/NewsSpace))
+- 📡 [Notícias Espaciais](https://github.com/samaraporto/NewsSpace)
   - Consome API de notícias espaciais e exibe no front-end.
-- 📖 [Joga da forca lúdico]([https://github.com/seu-usuario/biblioteca-java](https://samaraporto.github.io/flor-da-forca-projeto-webII/))
+- 📖 [Joga da forca lúdico](https://samaraporto.github.io/flor-da-forca-projeto-webII/)
   - Jogo que segue a lógica da forca feito com JavaScript puro, HTML e CSS para a disciplina Web II.
     
 
