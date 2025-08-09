@@ -4,6 +4,7 @@
 
 ## 📊 Projetos de Análise de Dados
 - [Dashboard analítico de vendas globais](https://lookerstudio.google.com/reporting/d9710b03-4e4c-4acc-9fb3-2c0e1cfeff48)
+- [Dashboard analítico de dados de RH](https://lookerstudio.google.com/reporting/e258b202-135d-4e02-8d86-f16199a10774)
 
 ## 🚀 Meus Projetos Destaque
 
