@@ -4,6 +4,9 @@
 
 💻 Tenho interesse em Engenharia de Dados e Ciência de Dados
 
+## Projetos de Análise de Dados
+- [Dashboard analítico de vendas globais](https://lookerstudio.google.com/reporting/d9710b03-4e4c-4acc-9fb3-2c0e1cfeff48)
+
 ## 🚀 Meus Projetos Destaque
 
 - [Pipeline de Análise Cinematográfica na AWS](https://github.com/samaraporto/Pipeline-de-Analise-Cinematografica-na-AWS)
