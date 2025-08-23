@@ -11,14 +11,15 @@
 - [Pipeline de Análise Cinematográfica na AWS](https://github.com/samaraporto/Pipeline-de-Analise-Cinematografica-na-AWS)
   - Pipeline da dados completa, desde ingestão de dados até criação de bashboard.
 - [Pipeline de Análise de Vendas da Olist](https://github.com/samaraporto/olist-project-ed)
-  - Pipeline da dados completa, desde ingestão de dados até criação de bashboard, 100% contruido na Azure. 
+  - Pipeline da dados completa, desde ingestão de dados até criação de bashboard, 100% contruido na Azure.
+- [Site completo de Gestão Acadêmica](https://github.com/samaraporto/gestao_academica)
+  - Site completo contruido com Node.js(Express) e MongoDB.
 - 🍔 [Site da Hamburgueria](https://github.com/samaraporto/projeto-burger/tree/backend)
   - Um site completo com login, pedido e localStorage.
 - 📡 [Notícias Espaciais](https://github.com/samaraporto/NewsSpace)
   - Consome API de notícias espaciais e exibe no front-end.
 - 📖 [Joga da forca lúdico](https://samaraporto.github.io/flor-da-forca-projeto-webII/)
   - Jogo que segue a lógica da forca feito com JavaScript puro, HTML e CSS para a disciplina Web II.
-    
 
 ## 🛠️ Tecnologias
 
