@@ -9,7 +9,9 @@
 ## 🚀 Meus Projetos Destaque
 
 - [Pipeline de Análise Cinematográfica na AWS](https://github.com/samaraporto/Pipeline-de-Analise-Cinematografica-na-AWS)
-  - Pipeline da dados completa, desde ingestão de dados até criação de bashboard.  
+  - Pipeline da dados completa, desde ingestão de dados até criação de bashboard.
+- [Pipeline de Análise de Vendas da Olist](https://github.com/samaraporto/olist-project-ed)
+  - Pipeline da dados completa, desde ingestão de dados até criação de bashboard, 100% contruido na Azure. 
 - 🍔 [Site da Hamburgueria](https://github.com/samaraporto/projeto-burger/tree/backend)
   - Um site completo com login, pedido e localStorage.
 - 📡 [Notícias Espaciais](https://github.com/samaraporto/NewsSpace)
