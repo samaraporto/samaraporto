@@ -14,7 +14,7 @@
   - Pipeline da dados completa, desde ingestão de dados até criação de bashboard, 100% contruido na Azure.
 - [Site completo de Gestão Acadêmica](https://github.com/samaraporto/gestao_academica)
   - Site completo contruido com Node.js(Express) , React e MongoDB.
-- [Catálogo de filmes e séries](https://github.com/samaraporto/meu-catalogo-filmes)
+- [Catálogo de filmes e séries](https://github.com/samaraporto/MeuCatalogo)
   - Site completo contruido com Node.js(Express), React e MongoDB.
 - 🍔 [Site da Hamburgueria](https://github.com/samaraporto/projeto-burger/tree/backend)
   - Um site completo com login, pedido e localStorage.
