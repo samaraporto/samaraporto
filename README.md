@@ -30,7 +30,7 @@
 - Banco de Dados: PostgreSQL, MySQL, DBeaver, MongoDB
 - Cloud: AWS, Azure
 - Outros: Docker, Git, Power BI, Looker Studio
-- Linguagens de Programação: Python(PySpark, Pandas, Sklearn) 
+- Linguagens de Programação: Python(PySpark, Pandas, Sklearn), Java, Kotlin, Javascript, C/C++
 
 ## 📫 Contato
 
