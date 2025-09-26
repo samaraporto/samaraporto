@@ -8,6 +8,8 @@
 
 ## 🚀 Meus Projetos Destaque
 
+- [Pipeline de dados e análise de corrida de táxis de New York no GCP](https://github.com/samaraporto/Projeto-de-Engenharia-de-Dados---NYC-Taxi)
+  - Pipeline da dados completa, desde ingestão de dados até criação de bashboard.
 - [Pipeline de Análise Cinematográfica na AWS](https://github.com/samaraporto/Pipeline-de-Analise-Cinematografica-na-AWS)
   - Pipeline da dados completa, desde ingestão de dados até criação de bashboard.
 - [Pipeline de Análise de Vendas da Olist](https://github.com/samaraporto/olist-project-ed)
