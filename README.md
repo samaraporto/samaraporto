@@ -36,5 +36,5 @@
 
 ## 📫 Contato
 
-- Linkedin: [LinkedIn](https://linkedin.com/in/spsamaraporto)
+- Linkedin: https://linkedin.com/in/spsamaraporto
 - Email: sp.samaraporto@gmail.com
