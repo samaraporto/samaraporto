@@ -14,6 +14,16 @@
 
 ---
 
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=samaraporto&show_icons=true&theme=maroongold&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&border_color=ff69b4"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaraporto&layout=compact&langs_count=8&theme=maroongold&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&border_color=ff69b4"/>
+
+</div>
+
+---
+
 ## 📊 Projetos de Análise de Dados
 
 - [📈 Dashboard analítico de vendas globais](https://lookerstudio.google.com/reporting/d9710b03-4e4c-4acc-9fb3-2c0e1cfeff48)  
@@ -42,6 +52,7 @@
   Front-end que consome API de notícias espaciais.  
 
 ---
+
  <p align="center">
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="50" height="50" alt="PySpark"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
@@ -80,18 +91,6 @@
 
 ---
 
-## 📈 Estatísticas no GitHub
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=samaraporto&show_icons=true&theme=maroongold&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&border_color=ff69b4"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaraporto&layout=compact&langs_count=8&theme=maroongold&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&border_color=ff69b4"/>
-
-</div>
-
----
-
 ## 📬 Contato
 
 <div align="center">
@@ -100,9 +99,6 @@
   </a>
   <a href="mailto:sp.samaraporto@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  <a href="https://github.com/samaraporto">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff69b4"/>
   </a>
 </div>
 
