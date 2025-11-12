@@ -1,40 +1,125 @@
-🎓 Estudante de Análise e Desenvolvimento de Sistemas, 6° Período
+<div align="center">
 
-💻 Entusiasta de Engenharia de Dados e Ciência de Dados
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
+
+# Samara Porto  
+
+**Estudante de Análise e Desenvolvimento de Sistemas — 6° Período**  
+**Entusiasta de Engenharia de Dados e Ciência de Dados**  
+**Forte interesse por tecnologia, dados e inovação**
+
+---
+
+</div>
+
+---
+
+## Sobre Mim
+
+Estudante de Análise e Desenvolvimento de Sistemas com estudos focados em **Engenharia de Dados e Ciência de Dados**, com experiência em **projetos práticos** que envolvem pipelines completos — desde a **ingestão até a visualização de dados**.  
+Tenho interesse em **Big Data, Cloud Computing, Machine Learning e Automação de Processos**.
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
+</p>
+
+---
 
 ## 📊 Projetos de Análise de Dados
-- [Dashboard analítico de vendas globais](https://lookerstudio.google.com/reporting/d9710b03-4e4c-4acc-9fb3-2c0e1cfeff48)
-- [Dashboard analítico de dados de RH](https://lookerstudio.google.com/reporting/e258b202-135d-4e02-8d86-f16199a10774)
 
-## 🚀 Meus Projetos Destaque
+- [📈 Dashboard analítico de vendas globais](https://lookerstudio.google.com/reporting/d9710b03-4e4c-4acc-9fb3-2c0e1cfeff48)  
+- [👩‍💼 Dashboard analítico de dados de RH](https://lookerstudio.google.com/reporting/e258b202-135d-4e02-8d86-f16199a10774)
 
-- [Pipeline de dados e análise de corrida de táxis de New York no GCP](https://github.com/samaraporto/Projeto-de-Engenharia-de-Dados---NYC-Taxi)
-  - Pipeline da dados completa, desde ingestão de dados até criação de bashboard.
-- [Pipeline de Análise Cinematográfica na AWS](https://github.com/samaraporto/Pipeline-de-Analise-Cinematografica-na-AWS)
-  - Pipeline da dados completa, desde ingestão de dados até criação de bashboard.
-- [Pipeline de Análise de Vendas da Olist](https://github.com/samaraporto/olist-project-ed)
-  - Pipeline da dados completa, desde ingestão de dados até criação de bashboard, 100% contruido na Azure.
-- [Site completo de Gestão Acadêmica](https://github.com/samaraporto/gestao_academica)
-  - Site completo contruido com Node.js(Express) , React e MongoDB.
-- [Catálogo de filmes e séries](https://github.com/samaraporto/MeuCatalogo)
-  - Site completo contruido com Node.js(Express), React e MongoDB.
-- 🍔 [Site da Hamburgueria](https://github.com/samaraporto/projeto-burger/tree/backend)
-  - Um site completo com login, pedido e localStorage.
-- 📡 [Notícias Espaciais](https://github.com/samaraporto/NewsSpace)
-  - Consome API de notícias espaciais e exibe no front-end.
-- 📖 [Joga da forca lúdico](https://samaraporto.github.io/flor-da-forca-projeto-webII/)
-  - Jogo que segue a lógica da forca feito com JavaScript puro, HTML e CSS para a disciplina Web II.
+---
 
-## 🛠️ Tecnologias
+## 💡 Projetos em Destaque
 
-- Front-end: HTML, CSS, JavaScript, React, Bootstrap
-- Back-end: Node.js, Express
-- Banco de Dados: PostgreSQL, MySQL, DBeaver, MongoDB
-- Cloud: AWS, Azure
-- Outros: Docker, Git, Power BI, Looker Studio
-- Linguagens de Programação: Python(PySpark, Pandas, Sklearn), Java, Kotlin, Javascript, C/C++
+- 🗽 [**Pipeline de Dados — Táxis de New York (GCP)**](https://github.com/samaraporto/Projeto-de-Engenharia-de-Dados---NYC-Taxi)  
+  Pipeline de dados completa — da ingestão ao dashboard.  
 
-## 📫 Contato
+- 🎬 [**Pipeline de Análise Cinematográfica (AWS)**](https://github.com/samaraporto/Pipeline-de-Analise-Cinematografica-na-AWS)  
+  Pipeline de dados completa — da ingestão ao dashboard.  
 
-- Linkedin: https://linkedin.com/in/spsamaraporto
-- Email: sp.samaraporto@gmail.com
+- 🛍️ [**Pipeline de Análise de Vendas da Olist (Azure)**](https://github.com/samaraporto/olist-project-ed)  
+  Pipeline 100% construída na Azure.  
+
+- 🎓 [**Site de Gestão Acadêmica**](https://github.com/samaraporto/gestao_academica)  
+  Aplicação completa com **Node.js**, **React** e **MongoDB**.  
+
+- 🎞️ [**Catálogo de Filmes e Séries**](https://github.com/samaraporto/MeuCatalogo)  
+  Aplicação full stack com **Express**, **React** e **MongoDB**.  
+ 
+- 📡 [**Notícias Espaciais**](https://github.com/samaraporto/NewsSpace)  
+  Front-end que consome API de notícias espaciais.  
+
+---
+
+## 🛠️ Stack Técnica
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/looker/looker-original.svg" width="50" height="50"/>
+</p>
+
+### 💻 Linguagens
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+</p>
+
+---
+
+## 📈 Estatísticas no GitHub
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=samaraporto&show_icons=true&theme=maroongold&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&border_color=ff69b4"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaraporto&layout=compact&langs_count=8&theme=maroongold&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&border_color=ff69b4"/>
+
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+  <a href="https://linkedin.com/in/spsamaraporto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:sp.samaraporto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://github.com/samaraporto">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff69b4"/>
+  </a>
+</div>
+
+---
+
