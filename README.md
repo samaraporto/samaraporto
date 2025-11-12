@@ -14,25 +14,6 @@
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
-</p>
-
----
-
 ## 📊 Projetos de Análise de Dados
 
 - [📈 Dashboard analítico de vendas globais](https://lookerstudio.google.com/reporting/d9710b03-4e4c-4acc-9fb3-2c0e1cfeff48)  
@@ -61,24 +42,32 @@
   Front-end que consome API de notícias espaciais.  
 
 ---
+ <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="50" height="50" alt="PySpark"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50" height="50" alt="Pandas"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50" alt="Matplotlib"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-Learn"/>
+  </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"       alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50"/>
 </p>
 
  <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Zabbix_logo.svg" alt="Zabbix" width="80" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" width="50" height="50" alt="Zabbix"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="50" height="50"/>
  </p>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Amazon_Quicksight_logo.svg" alt="Amazon QuickSight" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Looker.svg" alt="Looker Studio" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_quicksight/amazon_quicksight-icon.svg" width="50" height="50" alt="Amazon QuickSight"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/looker-studio.svg" width="50" height="50" alt="Looker Studio"/>
 </p>
 
 <p align="center">
