@@ -14,13 +14,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samaraporto&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samaraporto&layout=compact&theme=dracula)
-
-
-
----
-
 ## 📊 Projetos de Análise de Dados
 
 - [📈 Dashboard analítico de vendas globais](https://lookerstudio.google.com/reporting/d9710b03-4e4c-4acc-9fb3-2c0e1cfeff48)  
