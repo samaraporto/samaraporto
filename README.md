@@ -15,9 +15,10 @@
 ---
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samaraporto&show_icons=true&theme=dracula&cache_seconds=86400"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaraporto&layout=compact&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samaraporto&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samaraporto&layout=compact&theme=dracula"/>
 </p>
+
 
 
 ---
