@@ -14,10 +14,8 @@
 
 ---
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samaraporto&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samaraporto&layout=compact&theme=dracula"/>
-</p>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samaraporto&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samaraporto&layout=compact&theme=dracula)
 
 
 
