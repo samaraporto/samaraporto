@@ -14,13 +14,11 @@
 
 ---
 
-<div align="center">
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samaraporto&show_icons=true&theme=dracula&cache_seconds=86400"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaraporto&layout=compact&theme=dracula"/>
+</p>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=samaraporto&show_icons=true&theme=maroongold&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&border_color=ff69b4"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaraporto&layout=compact&langs_count=8&theme=maroongold&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&border_color=ff69b4"/>
-
-</div>
 
 ---
 
