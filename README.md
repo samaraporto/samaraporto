@@ -2,44 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
-# Samara Porto  
-
-**Estudante de Análise e Desenvolvimento de Sistemas — 6° Período**  
-**Entusiasta de Engenharia de Dados e Ciência de Dados**  
-**Forte interesse por tecnologia, cloud computing, automação de processos, dados e inovação**
-
----
-
 </div>
-
----
-
-## 📊 Projetos de Análise de Dados
-
-- [📈 Dashboard analítico de vendas globais](https://lookerstudio.google.com/reporting/d9710b03-4e4c-4acc-9fb3-2c0e1cfeff48)  
-- [👩‍💼 Dashboard analítico de dados de RH](https://lookerstudio.google.com/reporting/e258b202-135d-4e02-8d86-f16199a10774)
-
----
-
-## 💡 Projetos em Destaque
-
-- 🗽 [**Pipeline de Dados — Táxis de New York (GCP)**](https://github.com/samaraporto/Projeto-de-Engenharia-de-Dados---NYC-Taxi)  
-  Pipeline de dados completa — da ingestão ao dashboard.  
-
-- 🎬 [**Pipeline de Análise Cinematográfica (AWS)**](https://github.com/samaraporto/Pipeline-de-Analise-Cinematografica-na-AWS)  
-  Pipeline de dados completa — da ingestão ao dashboard.  
-
-- 🛍️ [**Pipeline de Análise de Vendas da Olist (Azure)**](https://github.com/samaraporto/olist-project-ed)  
-  Pipeline 100% construída na Azure.  
-
-- 🎓 [**Site de Gestão Acadêmica**](https://github.com/samaraporto/gestao_academica)  
-  Aplicação completa com **Node.js**, **React** e **MongoDB**.  
-
-- 🎞️ [**Catálogo de Filmes e Séries**](https://github.com/samaraporto/MeuCatalogo)  
-  Aplicação full stack com **Express**, **React** e **MongoDB**.  
- 
-- 📡 [**Notícias Espaciais**](https://github.com/samaraporto/NewsSpace)  
-  Front-end que consome API de notícias espaciais.  
 
 ---
 
@@ -74,14 +37,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   </p>
 
 
 ---
-
-## 📬 Contato
 
 <div align="center">
   <a href="https://linkedin.com/in/spsamaraporto" target="_blank">
